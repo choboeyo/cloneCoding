@@ -8,6 +8,10 @@ export default function Home() {
     <>
       <div>sad</div>
       <div>Happy</div>
+      <div>Happy</div>
+      <div>Happy</div>
+      <div>Happy</div>
+      <div>Happy</div>
     </>
   );
 }
